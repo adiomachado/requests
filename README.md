@@ -98,7 +98,7 @@ Adding requests to Pipfile's [packages]…
 …
 ```
 
-Requests officially supports Python 2.7 & 3.5+.
+Requests officially supports Python 3.7+.
 
 -------------------------------------
 
